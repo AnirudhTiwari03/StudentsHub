@@ -36,7 +36,7 @@
 ## 📝 Installation
 
 1. **Clone the repository**:
-   ```bash
+   ```Bash
    git clone  https://github.com/RishiGaneshe/StudentsHub.git
    cd StudentsHub
    npm install
